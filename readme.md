@@ -15,4 +15,4 @@ Seja bem-vindo ao meu github
 Olá meu nome e Ruaneri Ferreira Portela, natural de Belém, Pará - Brazil , sou estudante de engenharia da com da computação, amo desde pequeno a computação.
 
 
-Amo jogos, animes, e a natureza, em especial foi desde pequeno o contato com a computação que me levou ao que estou fazendo hoje, aqui irei compartilhar meu projetos pessoas e de pesquisas, soluções de código aberto.
+Amo jogos, animes, e a natureza, em especial foi desde pequeno o contato com a computação que me levou ao que estou fazendo hoje, aqui irei compartilhar meu projetos pessoais e de pesquisas, soluções de código aberto.
