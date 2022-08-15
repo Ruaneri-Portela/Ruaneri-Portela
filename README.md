@@ -19,7 +19,7 @@ My dream is to change the world through technology and innovation, thus improvin
 - 💞️ Procuro colaborar no progresso científico
 - 📫 Como contactar-me ? no meu e-mail "ruaneriportela@furg.br", no meu Linkdin "Ruaneri Portela" e pessoalmente na FURG
 
-Olá a todos, sou estudante de engenharia informática na FURG, com uma bolsa de estudo C3, e estou a aprender ainda mais sobre o meu amor pelo mundo da informática!
+Olá a todos, sou estudante de engenharia informática na FURG, com uma bolsa de iniciação científica no C3, e estou a aprender ainda mais sobre o meu amor pelo mundo da informática!
 
 O meu sonho é mudar o mundo através da tecnologia e da inovação, melhorando assim a vida de todos.
 
